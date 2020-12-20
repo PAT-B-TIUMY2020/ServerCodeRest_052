@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerCodeRest_20180140052_Bramantyo Adi Yoga", "ServerCodeRest_20180140052_Bramantyo Adi Yoga\ServerCodeRest_20180140052_Bramantyo Adi Yoga.csproj", "{F476B094-367A-481A-B17E-2B6C9B833528}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F476B094-367A-481A-B17E-2B6C9B833528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F476B094-367A-481A-B17E-2B6C9B833528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F476B094-367A-481A-B17E-2B6C9B833528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F476B094-367A-481A-B17E-2B6C9B833528}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2EDC56F-1349-4E94-A4A8-EC0A28A928ED}
+	EndGlobalSection
+EndGlobal
